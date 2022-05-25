@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(/src/Components/home2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.main {
+  background: black;
+  opacity: 0.7;
+  margin: 5% 38% 0% 38%;
+  border-radius: 5%;
+}
+.myform{
+      text-align: center;
+      padding: 6%;
+      font-size: 22px;
+      color: rgb(111, 245, 241);
+
+}
+.myform input{
+  padding: 3% 10%;
+  margin:1%;
+  opacity: 0.9;
+  border-radius: 15px;
+}
+
+.myform button{
+  background: black;
+  color: white;
+  padding:1%;
+  border-radius: 15px;
+  font-size: 20px;
+  margin: 1%;
+}
+
+.home{
+  background: rgb(0, 0, 0);
+  opacity: 0.6;
+  font-size: 20px;
+  padding: 1.6%;
+  text-decoration: none;
+  
+}
+ul a{
+  color: white;
+  text-decoration: none;
+  margin: 2%;
+}
